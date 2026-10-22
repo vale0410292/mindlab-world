@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mindlab-world/static/css/main.e6c13ad2.css",
+    "main.js": "/mindlab-world/static/js/main.dfe2235d.js",
+    "index.html": "/mindlab-world/index.html",
+    "main.e6c13ad2.css.map": "/mindlab-world/static/css/main.e6c13ad2.css.map",
+    "main.dfe2235d.js.map": "/mindlab-world/static/js/main.dfe2235d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dfe2235d.js"
+  ]
+}
